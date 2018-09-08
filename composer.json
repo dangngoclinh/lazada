@@ -1,0 +1,17 @@
+{
+    "name": "dangngoclinh/lazada",
+    "description": "lazada api",
+    "authors": [
+        {
+            "name": "dangngoclinh",
+            "email": "dangngoclinh90@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {       
+        "psr-4": {
+            "dangngoclinh\\lazada\\": "src/"
+        }
+    }
+}
